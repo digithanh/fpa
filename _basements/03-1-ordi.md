@@ -1,5 +1,6 @@
 ---
 slide: 03-ordi
+background: "#dddddd"
 ---
 
 Une UC est une machine à stocker des données et à les traiter puis les transformer et les restituer vers l’utilisateur sur l’écran.

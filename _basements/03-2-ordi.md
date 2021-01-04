@@ -1,5 +1,6 @@
 ---
-slide: 03-third-part
+slide: 03-ordi
+background: "#dddddd"
 ---
 
 Quand un utilisateur saisit des données, le texte qu'il saisit est stocké dans l’ordinateur, puis il les traite de la manière prescrite (mis en page) et en obtient une sortie (imprimé).

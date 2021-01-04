@@ -1,4 +1,5 @@
 ---
+background: "#dddddd"
 ---
 
 ## Qu'est-ce qu'un ordinateur ?
